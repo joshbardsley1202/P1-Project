@@ -17,3 +17,7 @@ Reuse/repurpose content from your previous drills for this site.
 * A section called "Goal Setting" with 3 dated blog posts about your goal setting process
 * A section called "Meetups" with 3 dated blog posts about the meetups you've been to, including what the topic was, who you talked to, and what questions you had.
 * A section called "About Me" that has a picture, and a brief biography.
+
+### Submission
+
+Put a deployed link to your site [here](#), and submit the URL to this repo.

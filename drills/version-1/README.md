@@ -20,4 +20,4 @@ Reuse/repurpose content from your previous drills for this site.
 
 ### Submission
 
-Put a deployed link to your site [here](#), and submit the URL to this repo.
+Put a deployed link to your site [here](https://project-1-9c2a1.firebaseapp.com), and submit the URL to this repo.

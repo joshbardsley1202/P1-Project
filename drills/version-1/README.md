@@ -1,23 +1,13 @@
-## Galvanize Learnr
+This website talks about me and my interest in cars as well as some things I learned in Galvanize such as goal setting, meetups, and learning to learn.
 
-Following instructions, build and publish a website about learning to learn and goal setting. Keep it up to date with progress on your goal, applications of learning to learn, and things you've learned at meetups.
+Link: https://project-1-9c2a1.firebaseapp.com/index.html
 
-### Website Requirements
+Author: Josh Bardsley
 
-* Well-formatted HTML and CSS
-* Deployed
-* Good visual hierarchy, color selection, typography
-    * Feel free to be "inspired by" (rip off) popular layouts if you are nervous about this
+GitHub: https://github.com/joshbardsley1202
 
-### Content Requirements
+LinkedIn: https://www.linkedin.com/in/josh-bardsley/
 
-Reuse/repurpose content from your previous drills for this site.
+Email:joshbardsley4@gmail.com
 
-* A section called "Learning To Learn" with 3 dated blog posts about your learning to learn process
-* A section called "Goal Setting" with 3 dated blog posts about your goal setting process
-* A section called "Meetups" with 3 dated blog posts about the meetups you've been to, including what the topic was, who you talked to, and what questions you had.
-* A section called "About Me" that has a picture, and a brief biography.
-
-### Submission
-
-Put a deployed link to your site [here](https://project-1-9c2a1.firebaseapp.com), and submit the URL to this repo.
+© 2018
